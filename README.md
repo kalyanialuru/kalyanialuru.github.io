@@ -18,7 +18,7 @@ With over 17 years of experience across IT and Data Science, I specialize in bui
 
 | Project | Summary | Skills |
 |--------|---------|--------|
-| [ReneWind - Predictive Maintenance](./ReneWind-ML-Pipeline) | Built a tuned Random Forest model to detect wind turbine failures with 94% accuracy. | Python, Random Forest, Sampling, Pipeline |
+| [ReneWind - Predictive Maintenance](./ReneWind-ML-Pipeline)| Built a tuned Random Forest model to detect wind turbine failures with 94% accuracy. | Python, Random Forest, Sampling, Pipeline |
 | [EasyVisa - Approval Prediction](./EasyVisa-Ensemble-Model) | Deployed an XGBoost model to predict visa approvals with 82% F1-score. | XGBoost, Bagging, Boosting, GridSearchCV |
 | [INN Hotels - Booking Cancellation](./INN-Hotels-Cancellation) | Predicted hotel booking cancellations using Decision Trees (87% accuracy). | Logistic Regression, Pruning, AUC-ROC |
 | [ReCell - Dynamic Pricing](./ReCell-Dynamic-Pricing) | Regression model for refurbished gadget pricing with R² = 0.84. | Linear Regression, Feature Engineering |
