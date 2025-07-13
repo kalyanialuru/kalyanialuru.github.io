@@ -54,7 +54,3 @@ The tuned model significantly improved recall, minimizing false negatives and re
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn
 - **Techniques:** Sampling, Random Forest, GridSearchCV, Evaluation Metrics
 
----
-
-## 📁 Folder Structure
-
