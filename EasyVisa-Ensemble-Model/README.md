@@ -52,8 +52,3 @@ XGBoost provided strong performance with a high recall, helping to minimize fals
 - **Language:** Python
 - **Libraries:** pandas, numpy, scikit-learn, XGBoost, matplotlib, seaborn
 - **Techniques:** Ensemble Learning (Bagging & Boosting), Feature Engineering, Grid Search
-
----
-
-## 📁 Folder Structure
-
