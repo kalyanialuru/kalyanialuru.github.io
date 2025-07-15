@@ -23,6 +23,8 @@ With over 17 years of experience across IT and Data Science, I specialize in bui
 | [INN Hotels - Booking Cancellation](./INN-Hotels-Cancellation) | Predicted hotel booking cancellations using Decision Trees (87% accuracy). | Logistic Regression, Pruning, AUC-ROC |
 | [ReCell - Dynamic Pricing](./ReCell-Dynamic-Pricing) | Regression model for refurbished gadget pricing with R² = 0.84. | Linear Regression, Feature Engineering |
 | [E-News Express AB Testing](./E-News Express AB Testing) | Assessed landing page design impact using statistical testing. | A/B Testing, Hypothesis Testing, Visualization |
+| [Food Hub Order Analysis using Python](./Food Hub Order Analysis using Python) | Performed data analysis to uncover insights and provide recommendations. | EDA, Python (Numpy, Pandas, Seaborn, Matplotlib) |
+| [Trade & Ahead - Unsupervised Learning](./Trade & Ahead - Unsupervised Learning) | Analyzed stock data to group stocks using clustering. | EDA, K-means Clustering, Hierarchical Clustering |
 
 ---
 
