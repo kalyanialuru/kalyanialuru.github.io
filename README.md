@@ -41,7 +41,7 @@ With over 17 years of experience across IT and Data Science, I specialize in bui
 ## 📄 Resume & Links
 
 - 📄 [My Resume (PDF)](./Resume/Kals_SeniorDataScientist_Resume.pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kalyani-a-581498220))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kalyani-a-581498220)  
 - 📊 [Tableau Public (if any dashboards)](https://public.tableau.com/app/profile/yourname)  
 - 🧠 [Certifications: AWS, Azure, AHM-250](#)
 
@@ -49,5 +49,5 @@ With over 17 years of experience across IT and Data Science, I specialize in bui
 
 ## 👨‍💻 Let’s Connect
 
-I'm open to consulting or full-time senior/lead roles focused on ML, data strategy, or analytics transformation. Feel free to explore the projects above and reach out on [LinkedIn](https://www.linkedin.com/in/your-profile).
+I'm open to consulting or full-time senior/lead roles focused on ML, data strategy, or analytics transformation. Feel free to explore the projects above and reach out on [LinkedIn](https://www.linkedin.com/in/kalyani-a-581498220).
 
